@@ -4,7 +4,7 @@ import com.github.javaparser.utils.SourceRoot;
 public class Blabla {
 
     private final void method1013(StreamBuffer buf, int opcode) {
-        if (opcode != 1) {
+        if (opcode != 111) {
             if (opcode != 2) {
                 if (opcode != 4) {
                     do {
